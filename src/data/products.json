@@ -1,0 +1,17 @@
+[
+    { "id": 1, "name": "Hamburguesa Clásica", "price": 500, "category": "Comida Rápida", "stock": 30 },
+    { "id": 2, "name": "Pizza Napolitana", "price": 1200, "category": "Pizzas", "stock": 20 },
+    { "id": 3, "name": "Ensalada César", "price": 800, "category": "Ensaladas", "stock": 15 },
+    { "id": 4, "name": "Sushi Roll (8 piezas)", "price": 1500, "category": "Japonesa", "stock": 25 },
+    { "id": 5, "name": "Taco de Carne Asada", "price": 300, "category": "Mexicana", "stock": 50 },
+    { "id": 6, "name": "Empanada de Jamón y Queso", "price": 200, "category": "Snacks", "stock": 60 },
+    { "id": 7, "name": "Milanesa Napolitana con Papas", "price": 1100, "category": "Platos Principales", "stock": 12 },
+    { "id": 8, "name": "Helado de Chocolate (500ml)", "price": 700, "category": "Postres", "stock": 35 },
+    { "id": 9, "name": "Café Latte", "price": 350, "category": "Bebidas", "stock": 40 },
+    { "id": 10, "name": "Lomito Completo", "price": 900, "category": "Sandwiches", "stock": 18 },
+    { "id": 11, "name": "Ravioles de Ricotta", "price": 950, "category": "Pastas", "stock": 10 },
+    { "id": 12, "name": "Cheesecake de Frutilla", "price": 850, "category": "Postres", "stock": 8 },
+    { "id": 13, "name": "Pollo al Curry", "price": 1300, "category": "Platos Principales", "stock": 14 },
+    { "id": 14, "name": "Fajitas de Pollo", "price": 950, "category": "Mexicana", "stock": 20 },
+    { "id": 15, "name": "Croissant de Manteca", "price": 150, "category": "Panadería", "stock": 100 }
+]
